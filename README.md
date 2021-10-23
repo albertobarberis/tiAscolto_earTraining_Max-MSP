@@ -8,5 +8,5 @@ ti ascolto was developed by composer Alberto Barberis for the Conservatorio dell
 
 Max/MSP DEPENDENCIES: download and install the [bach library](https://www.bachproject.net/)
 
-AUDIO FILES are available [here](https://drive.google.com/drive/folders/1AlPeSSgedl2uO8W4RnZ-5lrW-le2P7jS?usp=sharing)
+AUDIO FILES: download and place in the Max/MSP resources path from [here](https://drive.google.com/drive/folders/1AlPeSSgedl2uO8W4RnZ-5lrW-le2P7jS?usp=sharing)
 
